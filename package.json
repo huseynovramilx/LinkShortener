@@ -7,7 +7,7 @@
     "ecstatic": "^4.1.2",
     "fstream": "^1.0.12",
     "handlebars": "^4.1.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "js-yaml": "^3.13.1",
     "shelljs": "^0.8.3",
     "tar": "^2.2.2",
