@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "ecstatic": "^4.1.2",
+    "ecstatic": "^4.1.4",
     "fstream": "^1.0.12",
     "handlebars": "^4.1.2",
     "jquery": "^3.4.1",
